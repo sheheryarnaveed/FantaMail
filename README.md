@@ -27,7 +27,7 @@ npm install
 ```console
 npm start
 ```
-4. The server will be up and start to run. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+4. The server will be up and running. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 ### Screenshots
