@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "emailAddress": "foo@foo.com",
+    "message": "Good Morning",
+    "date": "11th November 2018",
+    "category": "Inbox"
+  },
+  {
+    "id": 2,
+    "emailAddress": "zen@zen.com",
+    "message": "Good Afternoon",
+    "date": "12th November 2018",
+    "category": "Inbox"
+  },
+  {
+    "id": 3,
+    "emailAddress": "fantamail@foo.com",
+    "message": "Good Evening",
+    "date": "13th November 2018",
+    "category": "Inbox"
+  },
+  {
+    "id": 4,
+    "emailAddress": "foo@fantasticmail.com",
+    "message": "Good Night",
+    "date": "14th November 2018",
+    "category": "Inbox"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "emailAddress": "trashfoo@foo.com",
+    "message": "Please trash me",
+    "date": "11th November 2018",
+    "category": "Trash"
+  },
+  {
+    "id": 2,
+    "emailAddress": "trash@trash.com",
+    "message": "I am trash material",
+    "date": "12th November 2018",
+    "category": "Trash"
+  },
+  {
+    "id": 3,
+    "emailAddress": "fantamail@foo.com",
+    "message": "I've been for a while now",
+    "date": "13th November 2018",
+    "category": "Trash"
+  },
+  {
+    "id": 4,
+    "emailAddress": "trash@fantasticmail.com",
+    "message": "Trashed!!!!",
+    "date": "14th November 2018",
+    "category": "Trash"
+  }
+]

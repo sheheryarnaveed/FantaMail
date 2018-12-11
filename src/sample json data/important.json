@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "emailAddress": "foobill@foo.com",
+    "message": "Bill Payment",
+    "date": "11th November 2018",
+    "category": "Important"
+  },
+  {
+    "id": 2,
+    "emailAddress": "payment@payment.com",
+    "message": "Cash Flow",
+    "date": "12th November 2018",
+    "category": "Important"
+  },
+  {
+    "id": 3,
+    "emailAddress": "fantamail@foopayment.com",
+    "message": "Bank Statement",
+    "date": "13th November 2018",
+    "category": "Important"
+  },
+  {
+    "id": 4,
+    "emailAddress": "paymentfoo@fantasticmail.com",
+    "message": "Payment overdue",
+    "date": "14th November 2018",
+    "category": "Important"
+  }
+]
