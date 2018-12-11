@@ -1,44 +1,36 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## FantaMail
 
-## Available Scripts
+An emailing service made using react.js intended to simplify emails by using deep learning models. Currently, it is just a front-end stub with php back-end, within few weeks will be transfomred into a powerful deep learned application with features such as summarizing the email threads and making it a more easily handled mailbox. The idea will be extended to chatting applications in future.
 
-In the project directory, you can run:
+## Interface
+* Frontend
+  * React.js
+  * Material-UI
+  * Jquery
+* Backend
+  * PHP
 
-### `npm start`
+### Backend dependencies
+The backend was built and tested using php-myadmin served at [xampp](https://www.apachefriends.org/index.html).
+However, to understand the data heuristics, sample json data is included in <code>src\back-end\SampleData</code> directory.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Running the react application
+1. Move into the root directory:
+```console
+cd \fanta-mail\
+```
+2. Install all the required dependencies
+```console
+npm install
+```
+3. Run th following command:
+```console
+npm start
+```
+4. The server will be up and start to run. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
 
-### `npm test`
+### Screenshots
+<img src="https://github.com/sheheryarnaveed/FantaMail/blob/master/src/screenshots/1.png" width="520" height="300">
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<img src="https://github.com/sheheryarnaveed/FantaMail/blob/master/src/screenshots/2.png" width="520" height="300">
