@@ -31,6 +31,6 @@ npm start
 
 
 ### Screenshots
-<img src="https://github.com/sheheryarnaveed/FantaMail/blob/master/src/screenshots/1.png" width="580" height="400">
+<img src="https://github.com/sheheryarnaveed/FantaMail/blob/master/src/screenshots/1.png" width="500" height=300">
 
-<img src="https://github.com/sheheryarnaveed/FantaMail/blob/master/src/screenshots/2.png" width="580" height="400">
+<img src="https://github.com/sheheryarnaveed/FantaMail/blob/master/src/screenshots/2.png" width="500" height="300">
