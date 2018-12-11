@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Fantamail from './interface.js';
+import Fantamail from './front-end/interface.js';
 
 
 class App extends Component {

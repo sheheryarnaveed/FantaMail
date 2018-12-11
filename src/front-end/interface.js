@@ -27,7 +27,7 @@ import { fade } from '@material-ui/core/styles/colorManipulator';
 import MenuIcon from '@material-ui/icons/Menu';
 import SearchIcon from '@material-ui/icons/Search';
 import logo from './assets/fantamail_logo.svg';
-import './App.css';
+import './interface.css';
 import $ from 'jquery';
 
 
