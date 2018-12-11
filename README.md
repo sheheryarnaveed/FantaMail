@@ -12,7 +12,7 @@ An emailing service made using react.js intended to simplify emails by using dee
 
 ### Backend dependencies
 The backend was built and tested using php-myadmin served at [xampp](https://www.apachefriends.org/index.html).
-However, to understand the data heuristics, sample json data is included in <code>src\front-end\SampleData</code> directory.
+However, to understand the data heuristics, sample json data is included in <code>src\back-end\SampleData</code> directory.
 
 ### Running the react application
 1. Move into the root directory:
@@ -31,4 +31,6 @@ npm start
 
 
 ### Screenshots
+<img src="https://github.com/sheheryarnaveed/FantaMail/blob/master/src/screenshots/1.png" width="580" height="400">
 
+<img src="https://github.com/sheheryarnaveed/FantaMail/blob/master/src/screenshots/2.png" width="580" height="400">
