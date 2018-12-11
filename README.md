@@ -20,7 +20,7 @@ However, to understand the data heuristics, sample json data is included in <cod
 cd \fanta-mail\
 ```
 2. Install all the required dependencies
-```
+```console
 npm install
 ```
 3. Run th following command:
