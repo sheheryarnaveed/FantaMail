@@ -118,7 +118,7 @@ var email_id = 0;
 var curr_folder = "Inbox";
 
 
-class ClippedDrawer extends React.Component {
+class Fantamail extends React.Component {
     constructor(props) {
         super(props);
         this.state = { selected: 0, prev: -1, checked: false, numberNotChecked: "0", forward: "0", back: "0", emailbody: [], Inbox: [], Trash: [], Important: []};
@@ -752,8 +752,8 @@ class ClippedDrawer extends React.Component {
     }
 }
 
-ClippedDrawer.propTypes = {
+Fantamail.propTypes = {
   classes: PropTypes.object.isRequired,
 };
 
-export default withStyles(styles)(ClippedDrawer);
+export default withStyles(styles)(Fantamail);
